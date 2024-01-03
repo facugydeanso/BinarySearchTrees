@@ -1,0 +1,22 @@
+# ninja log v5
+1	9096	6880795425130153	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.obj	c27e5522cfdafee9
+9100	11332	6880795447600185	libgtest.a	dfedbf4b46e92d05
+1620	2005	6880795354102062	libgtest_main.a	fb46be08fc064dec
+623	734	1666371371774143937	correrTests	717a4584830b49b5
+21	1606	6880795350204147	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.obj	41ecd4b028d1e388
+8	1516	6903423029880039	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1517	3824	6903423052900188	correrTests.exe	4dbd4ef1ea786808
+9	1679	6903423120624307	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1680	4380	6903423147586535	correrTests.exe	4dbd4ef1ea786808
+9	1631	6903423225580098	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1632	3924	6903423248470000	correrTests.exe	4dbd4ef1ea786808
+6	1664	6903423313686246	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1665	4167	6903423338665589	correrTests.exe	4dbd4ef1ea786808
+5	1177	6903423440492687	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1178	3444	6903423463105887	correrTests.exe	4dbd4ef1ea786808
+6	1242	6903445092568813	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1243	3503	6903445115128877	correrTests.exe	4dbd4ef1ea786808
+6	1146	6903445348234009	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1147	3425	6903445370969112	correrTests.exe	4dbd4ef1ea786808
+5	1319	6903445456307498	CMakeFiles/correrTests.dir/tests/conjunto-tests.cpp.obj	79830f9f521881
+1321	3682	6903445479903719	correrTests.exe	4dbd4ef1ea786808

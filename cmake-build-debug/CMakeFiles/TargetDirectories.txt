@@ -1,0 +1,6 @@
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/correrTests.dir
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/correrValgrind.dir
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Facu/Desktop/UBA/Second Year/Algoritmos 2/AyED2-Labo08-Conjunto_sobre_ABBs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
